@@ -1,0 +1,17 @@
+ul{
+    margin-top: 10px;
+}
+.custom-list{
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:5px;
+    border-radius: 5px;
+}
+.done{
+    box-shadow: 0 0 5px 2px rgb(218, 240, 185);
+}
+.undone{  
+    box-shadow: 0 0 5px 2px #f9c4c4;
+}

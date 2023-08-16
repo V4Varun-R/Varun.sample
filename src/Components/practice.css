@@ -1,0 +1,14 @@
+.practice-section .table-row{
+    padding:10px;
+    border:1px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.practice-section .completed{
+    border:1px solid rgb(210, 246, 210);
+}
+.practice-section .incompleted{
+    border:1px solid rgb(245, 188, 188);
+}
