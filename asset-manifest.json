@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Varun.sample/static/css/main.a00805af.css",
+    "main.js": "/Varun.sample/static/js/main.66fb57ee.js",
+    "static/media/logo033.png": "/Varun.sample/static/media/logo033.357d6f47b3f771783529.png",
+    "index.html": "/Varun.sample/index.html",
+    "main.a00805af.css.map": "/Varun.sample/static/css/main.a00805af.css.map",
+    "main.66fb57ee.js.map": "/Varun.sample/static/js/main.66fb57ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a00805af.css",
+    "static/js/main.66fb57ee.js"
+  ]
+}
